@@ -1,31 +1,31 @@
-# 🏥 Hospital Management System – OOP Project (C++)
+#  Hospital Management System – OOP Project (C++)
 
 This project simulates a hospital management system using Object-Oriented Programming in C++. It includes features such as patient registration, appointment scheduling, emergency case handling, staff record management, and file-based data storage. The code follows a modular approach with separate classes for patients, doctors, and administrative functions.
 ---
 
-## 🔑 Key Features
+##  Key Features
 
- 👨‍⚕ Doctor Management
+  Doctor Management
 - Add doctor
 - Delete doctor
 - View assigned appointments
 
- 📅 Appointment Management
+  Appointment Management
 - Add appointment
 - Delete appointment
 - View all appointments by doctor
 
- 🚨 Emergency Cases
+  Emergency Cases
 - Handle emergency case input
 - Track separately if needed
 
- 📝 Patient Records
+  Patient Records
 - Store and retrieve basic patient information
 - Link with appointments
 
 ---
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 - Classes and Objects  
 - Inheritance & Encapsulation  
@@ -35,7 +35,7 @@ This project simulates a hospital management system using Object-Oriented Progra
 
 ---
 
-📅 Semester: 2nd  
-👩‍💻 Role: Solo Developer  
-✅ Status: Completed  
-📂 Language: C++
+ Semester: 2nd  
+ Role: Solo Developer  
+ Status: Completed  
+ Language: C++
