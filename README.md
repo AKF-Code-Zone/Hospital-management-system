@@ -5,21 +5,21 @@ This project simulates a hospital management system using Object-Oriented Progra
 
 ##  Key Features
 
-  Doctor Management
+# Doctor Management
 - Add doctor
 - Delete doctor
 - View assigned appointments
 
-  Appointment Management
+# Appointment Management
 - Add appointment
 - Delete appointment
 - View all appointments by doctor
 
-  Emergency Cases
+# Emergency Cases
 - Handle emergency case input
 - Track separately if needed
 
-  Patient Records
+# Patient Records
 - Store and retrieve basic patient information
 - Link with appointments
 
